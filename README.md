@@ -116,3 +116,5 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 Meeting days, times, and locations may vary from week to week depending on the availability of space. If you can help with hosting future meetings, please contact me!
 
 For details of specific meetings, see the Meetup page.
+
+This repo was adapted from [Haskell Study Startup](https://github.com/sjsyrek/haskell-study-startup). Thank you @sjsyrek!
