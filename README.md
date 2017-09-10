@@ -1,4 +1,4 @@
-# Haskell Study Group
+# Haskell Study Group Dublin
 
 ## Guidelines
 
