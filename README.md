@@ -6,8 +6,8 @@ We will work through [_Haskell Programming from First Principles_](http://haskel
 
 To prepare for your first visit, please do the following:
 
-- **Join the [Gitter](https://gitter.im/Haskell-Dublin-Meetup/Lobby) community.**
-All announcements pertaining to this study group will be sent out via Meetup and Gitter.
+- **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
+All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-dublin-meetup` channel.
 
 - **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book.**
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
