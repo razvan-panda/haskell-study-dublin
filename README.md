@@ -57,11 +57,11 @@ You are encouraged to hew as closely to this regular, weekly schedule as you are
 
 ### Signing up
 
-All meetings will be announced on Meetup and Slack. You must RSVP to attend each meeting separately, as space is at a premium. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend. No-shows will not be allowed to attend subsequent meetings.
+All meetings will be announced on Meetup and Slack. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend.
 
 ### Slides and other resources
 
-See the [resources](resources) sub-directory in this repo for presentation slides, bonus exercises, and other materials used during study session meetings. If you have something pertinent to add, please submit a pull request.
+See the [resources](resources) sub-directory in this repository for presentation slides, bonus exercises, and other materials used during study session meetings. If you have something good to add, please submit a pull request.
 
 ### Schedule
 
@@ -113,8 +113,14 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 - Read Chapter 19 on your own
 - General review and look ahead
 
-Meeting days, times, and locations may vary from week to week depending on the availability of space. If you can help with hosting future meetings, please contact me!
+Meeting days, times, and locations may vary from week to week depending on the availability of space.
+
+If you can help with hosting future meetings, please contact me at razvan.panda@gmail.com
+
+Existing hosts:
+* WhatClinic
+* Pivotal
 
 For details of specific meetings, see the Meetup page.
 
-This repo was adapted from [Haskell Study Startup](https://github.com/sjsyrek/haskell-study-startup). Thank you @sjsyrek!
+This repository was adapted from [Haskell Study Startup](https://github.com/sjsyrek/haskell-study-startup). Thank you @sjsyrek!
