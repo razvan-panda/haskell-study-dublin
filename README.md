@@ -2,15 +2,20 @@
 
 ## Guidelines
 
-We will work through [_Haskell Programming from First Principles_](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki. The only prerequisites for participating are this book, a computer, and your person. An open mind is also recommended. No prior experience with Haskell, functional programming, or coding in general is required.
+We will mainly work through [_Haskell Programming from First Principles_](https://gum.co/haskellbook/dublinmeetup) (aka the "Haskell Book from first principles") by Christopher Allen and Julie Moronuki but feel free to study through other alternatives like the free ones mentioned bellow. The only prerequisites for participating are a computer and your person. An open mind is also recommended. No prior experience with Haskell, functional programming, or coding in general is required.
 
 To prepare for your first visit, please do the following:
 
 - **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
 All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-dublin-meetup` channel.
 
-- **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book.**
-You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
+- **[Purchase](https://gum.co/haskellbook/dublinmeetup) your own copy of the book Haskell Programming from first principles or use one of the free alternatives mentioned bellow**
+Please read the guidelines about using the book in the GitHub repository before using the discount code coupon.
+You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy - so either purchase one or use a free alternative.
+
+- **Alternative free haskell books:**
+    - [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
+    - [Learn You a Haskell for Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters)
 
 - **Install [Stack](https://docs.haskellstack.org/en/stable/README/), the Haskell project development tool.**
 If you are familiar with package managers like npm, pip, and apt, Stack is similar. You needn't show up already an expert, but do at least [learn the basics](resources/haskell-stack-notes.md). If you want to know everything, though, you could watch [this video](https://www.youtube.com/watch?v=sRonIB8ZStw). The most important thing: whatever you do, _do not install the Haskell Platform_.
@@ -20,7 +25,7 @@ You don't need to do much more than create a directory for your code and make su
 
 ### Expectations
 
-Participants in the study group will be expected to model and reinforce a culture of accountability. This entails everyone abiding by the norms of a supportive and rigorous classroom environment. Each week, you should complete the following tasks:
+Participants in the study group will be expected to model and reinforce a culture of accountability. This entails everyone abiding by the norms of a supportive and rigorous classroom environment. Each week, you should attempt to complete the following tasks:
 
 - Do all the reading.
 - Type in all the code.
@@ -28,22 +33,17 @@ Participants in the study group will be expected to model and reinforce a cultur
 - Meet with a study partner to discuss your work.
 - Attend the group meeting.
 
-These expectations are not meant to make your life miserable but to provide a framework for your success. If you actually want to learn Haskell, consistency is the key—as with anything else. Since we'll be learning Haskell together in this group, it is essential that you work through each chapter on your own first so that you come to each group meeting prepared, knowing what you need help with and what you understand well enough to teach others. If you get stuck on a problem, keep moving, but do not just skip the exercises entirely.
+These expectations are not meant to make your life miserable but to provide a framework for your success. If you actually want to learn Haskell, consistency is the key — as with anything else. Since we'll be learning Haskell together in this group, it is essential that you work through each chapter on your own first so that you come to each group meeting prepared, knowing what you need help with and what you understand well enough to teach others. If you get stuck on a problem, keep moving, but do not just skip the exercises entirely.
+
 #### For the sake of emphasis: _do not skip the exercises!_
 
-If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Come to the study group, and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
-
-**Discount codes**: I have emailed the authors to request discount codes for the group. These will probably be limited so if you can afford to buy the book currently, please do so. The authors have put in a lot of hard work for an excellent book so it is good to give back.
+If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Come to the study group, and we'll help you figure it out or just ask in Slack for help. Fortunately, you don't even need a computer to work through Chapter 1 — just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
 
 ### Conduct of code
 
 By participating in this study group, you implicitly agree to conduct your coding as follows:
 
 If you can not afford to purchase the Haskell Programming from first principles then use an alternative information source for the study at your own pace and ask for any help required during the meetups.
-
-Alternative free haskell books:
-* [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
-* [Learn You a Haskell for Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters)
 
 Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
 
