@@ -39,25 +39,29 @@ If you are a complete beginner to programming or for whatever reason have troubl
 
 By participating in this study group, you implicitly agree to conduct your coding as follows:
 
-You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be removed from the group immediately.
+If you can not afford to purchase the Haskell Programming from first principles then use an alternative information source for the study at your own pace and ask for any help required during the meetups.
 
-Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete their assignments twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
+Alternative free haskell books:
+* [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
+* [Learn You a Haskell for Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters)
 
-You will make every effort to attend the weekly group meetings. Space is limited, so if you cannot commit to attending regularly, do not sign up. Participants who consistently miss meetings or RSVP without showing up will be removed from the group. If you cannot make it to a meeting, withdraw your RSVP as soon as possible.
+Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
+
+You will make every effort to attend the weekly group meetings. Space is limited, so if you cannot commit to attending regularly, do not sign up. If you cannot make it to a meeting, withdraw your RSVP as soon as possible.
 
 In addition to the above, all study group participants are expected to make their best effort at being decent human beings. Participants whose behavior strays too far or too often beyond the reasonable boundaries of respect, kindness, and collegiality may be removed from the group at the discretion of the organizer.
 
 ### Format
 
-We will work through chapters 1–18 of the Haskell Book over the course of 12 weeks, meeting for about 2 hours each week. We may extend the meeting schedule to cover subsequent chapters if there is enthusiasm for doing so and the organizer is available.
+We will work through chapters 1–18 of the Haskell Book over the course of 12 weeks, meeting for about 2 hours each week. We may extend the meeting schedule to cover subsequent chapters if there is enthusiasm for doing so.
 
-**This is not a class**, however, so do not come expecting a lecture. Instead, you will have the opportunity to review your work and to discuss concepts and exercises that gave you difficulty when working through the book on your own.
+You will have the opportunity to review your work and to discuss concepts and exercises that gave you difficulty when working through the book on your own.
 
 You are encouraged to hew as closely to this regular, weekly schedule as you are able so as to maintain your momentum. That said, if life gets in the way, so be it: but do your best to catch up, and avoid skipping any material as each chapter builds on the last. We can always discuss exercises on Slack, but please refrain from posting your solutions publicly (including on GitHub).
 
 ### Signing up
 
-All meetings will be announced on Meetup and Slack. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend.
+All meetings will be announced on Meetup and Slack. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting.
 
 ### Slides and other resources
 
