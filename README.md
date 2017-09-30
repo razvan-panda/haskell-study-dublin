@@ -9,11 +9,11 @@ To prepare for your first visit, please do the following:
 - **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
 All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-dublin-meetup` channel.
 
-- **[Purchase](https://gum.co/haskellbook/dublinmeetup) your own copy of the book Haskell Programming from first principles or use one of the free alternatives mentioned bellow**
+- ** Either [Purchase](https://gum.co/haskellbook/dublinmeetup) your own copy of the book Haskell Programming from first principles OR use one of the free alternatives mentioned bellow OR choose your own material to study**
 Please read the guidelines about using the book in the GitHub repository before using the discount code coupon.
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy - so either purchase one or use a free alternative.
 
-- **Alternative free haskell books:**
+  Alternative free haskell books:
     - [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/read/)
     - [Learn You a Haskell for Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters)
 
