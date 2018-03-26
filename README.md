@@ -121,9 +121,12 @@ Meeting days, times, and locations may vary from week to week depending on the a
 
 If you can help with hosting future meetings, please contact me at razvan.panda@gmail.com
 
-Existing hosts:
-* WhatClinic
+Past hosts:
+* Workday
+* Nitro
+* Zalando
 * Pivotal
+* WhatClinic
 
 For details of specific meetings, see the Meetup page.
 
